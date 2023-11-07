@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\DSCC_CW1_Frontend_11733.props" />
-</Project>
